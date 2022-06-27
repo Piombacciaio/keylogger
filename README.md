@@ -9,4 +9,4 @@ once that the timer gets to 0, if any key has been released it will create a log
 
 the name "svchost" is not casual, as on windows any process called svchost.exe will get a system icon in the process manager.
 
-This is nothing fancy or overengineered, and may be used only to troll your friends and most of the antiviruses will detect it
+This is nothing fancy or overengineered, it may be used only to troll your friends and most of the antiviruses will detect it
